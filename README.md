@@ -28,5 +28,19 @@
 15. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 https://github.com/stettem/8-01-Homework
 
+### Задание 2
+Что нужно сделать:
 
-
+1. Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
+![Название скриншота 11](https://github.com/stettem/8-01-HW/blob/9f85f386a5e8a24bef1f39e1eafb5be6ede216a6/img/13.png)
+![Название скриншота 12](https://github.com/stettem/8-01-HW/blob/9f85f386a5e8a24bef1f39e1eafb5be6ede216a6/img/14.png) 
+2. Добавьте файл .gitignore в следующий коммит git add....
+![Название скриншота 13](https://github.com/stettem/8-01-HW/blob/9f85f386a5e8a24bef1f39e1eafb5be6ede216a6/img/15.png)
+3.Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
+![Название скриншота 14](https://github.com/stettem/8-01-HW/blob/9f85f386a5e8a24bef1f39e1eafb5be6ede216a6/img/18.png)
+4. Сделайте коммит и пуш.
+![Название скриншота 15](https://github.com/stettem/8-01-HW/blob/9f85f386a5e8a24bef1f39e1eafb5be6ede216a6/img/16.png)
+![Название скриншота 16](https://github.com/stettem/8-01-HW/blob/9f85f386a5e8a24bef1f39e1eafb5be6ede216a6/img/17.png)
+В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+https://github.com/stettem/8-01-Homework/blob/main/.gitignorey
+### Задание 3
