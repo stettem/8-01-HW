@@ -44,3 +44,29 @@ https://github.com/stettem/8-01-Homework
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 https://github.com/stettem/8-01-Homework/blob/main/.gitignorey
 ### Задание 3
+**Что нужно сделать:**
+
+1. Создайте новую ветку dev и переключитесь на неё.
+![Название скриншота 17](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.1.png)
+2. Создайте в ветке dev файл test.sh с произвольным содержимым.
+![Название скриншота 18](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.2.png)
+![Название скриншота 19](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.2.1.png)
+4. Сделайте несколько коммитов и пушей  в ветку dev, имитируя активную работу над  файлом в процессе разработки.
+![Название скриншота 20](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.2.2.png)
+![Название скриншота 21](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.2.3.png)
+![Название скриншота 22](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.2.4.png)
+5. Переключитесь на основную ветку.
+![Название скриншота 23](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.2.5.png)
+7. Добавьте файл main.sh в основной ветке с произвольным содержимым, сделайте комит и пуш . Так имитируется продолжение общекомандной разработки в основной ветке во время разработки отдельного функционала в dev  ветке.
+![Название скриншота 24](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.5.1.png)
+9. Сделайте мердж dev  ветки в основную с помощью git merge dev. Напишите осмысленное сообщение в появившееся окно комита.
+![Название скриншота 24](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.6.1.png)
+11. Сделайте пуш в основной ветке.
+![Название скриншота 25](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.8.1.png)
+13. Не удаляйте ветку dev.
+![Название скриншота 26](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.8.2.png)
+В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+https://github.com/stettem/8-01-Homework/network
+
+
+---
