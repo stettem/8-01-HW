@@ -65,7 +65,7 @@ https://github.com/stettem/8-01-Homework/blob/main/.gitignorey
 ![Название скриншота 25](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.8.1.png)
 13. Не удаляйте ветку dev.
 ![Название скриншота 26](https://github.com/stettem/8-01-HW/blob/955ebf4a658b647878fd42fe2e1a45bc7f65c82b/img/3.8.2.png)
-В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+В качестве ответа прикрепите ссылку на граф коммитов в ваш md-файл с решением.
 https://github.com/stettem/8-01-Homework/network
 
 
