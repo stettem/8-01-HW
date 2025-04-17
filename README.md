@@ -16,7 +16,6 @@
 9. Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
 ![Название скриншота 5](https://github.com/stettem/8-01-HW/blob/d9b003ac5cb597b5c41f7bd20ced63bf29a1400c/img/6.png)
 10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
-
 ![Название скриншота 6](https://github.com/stettem/8-01-HW/blob/d9b003ac5cb597b5c41f7bd20ced63bf29a1400c/img/7.png)
 12. Ещё раз выполните команды git diff и git diff --staged.
 ![Название скриншота 7](https://github.com/stettem/8-01-HW/blob/d9b003ac5cb597b5c41f7bd20ced63bf29a1400c/img/8.png)
